@@ -1,4 +1,6 @@
 IPL Score Predictor
+
+
 This Streamlit webapp enables user to predict total runs between teams using current runs and wickets.
 
 Algorithms used:
